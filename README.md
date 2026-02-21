@@ -3,7 +3,7 @@ Portfólio técnico em segurança, auditoria, IA e risco
 
 ---
 
-PoF: Arquitetura voltada para...
+PoC: Arquitetura voltada para...
 - Identificar risco
 - Balancear custo
 - Garantir continuidade
